@@ -1,4 +1,4 @@
-# Presentación de Programación con Objetos I
+# Presentación de Joana Valeria Guil
 - [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
 - [x] Licenciatura en Informática
