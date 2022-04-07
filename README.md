@@ -1,15 +1,14 @@
 # Presentación de Joana Valeria Guil
-- [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
-- [x] Instituto de Tecnología e Ingeniería 
-- [x] Licenciatura en Informática
-- [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
+- [x] Estudiante de la Licenciatura en Informática en la Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
+- [x] Ingreso en 2019 
+- [x] Vivo en Morón. Buenos Aires, Argentina.
 
-## Este cuatrimestre 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
-* 2 Comisiones (C1-Mañana / C2-Noche), pero es la misma materia y utilizamos la misma página.
-* Un docente principal por comisión con clases independientes. 
-* Este cuantrimestre los profesores somos [Gerardo González], **Lucas Spigariol** y **Hernan Coniglio**
-* Vamos a tener distintas alternativas de horarios para consultas y práctica.
+## Hola, paso a contar un poco sobre mi 
+* Me llamo Joana Valeria, pero me gusta o utilizo más mi segundo nombre Valeria, curso Tecnicatura en programación, con el objetivo  de seguir la licenciatura. Mayormente me gusta cursar por el turno noche para organizarme con otras tareas durante el dia.
+* Tengo 23 años.
+* Soy taurina (informacion que no puedo pasar por alto).
+* Tengo un hijo de 6 años llamado Liam.
+* Con respecto a mi carrera, me encanta ir descrubriendo y aprendiendo cosas nuevas, aunque a veces cueste o vaya a un ritmo mas lento amo hacer lo que hago.
 
 ## dejamos una reflexión 🤪
 ![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
