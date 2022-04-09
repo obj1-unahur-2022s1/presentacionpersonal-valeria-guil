@@ -11,4 +11,4 @@
 * Con respecto a mi carrera, me encanta ir descrubriendo y aprendiendo cosas nuevas, aunque a veces cueste o vaya a un ritmo mas lento amo hacer lo que hago.
 
 ## Valeria Guil 
-![fotoguilvaleria]https://github.com/obj1-unahur-2022s1/presentacionpersonal-valeria-guil/blob/main/fotoguilvaleria.png
+![fotoguilvaleria](https://github.com/obj1-unahur-2022s1/presentacionpersonal-valeria-guil/blob/main/fotoguilvaleria.png)
