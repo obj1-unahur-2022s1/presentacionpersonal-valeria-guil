@@ -10,5 +10,5 @@
 * Tengo un hijo de 6 años llamado Liam.
 * Con respecto a mi carrera, me encanta ir descrubriendo y aprendiendo cosas nuevas, aunque a veces cueste o vaya a un ritmo mas lento amo hacer lo que hago.
 
-## dejamos una reflexión 🤪
-![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+## Valeria Guil 
+![foto personal](https://github.com/obj1-unahur-2022s1/presentacionpersonal-valeria-guil/blob/main/fotoguilvaleria.jpg)
